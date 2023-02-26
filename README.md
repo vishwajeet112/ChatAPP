@@ -20,7 +20,9 @@ Community Group based chat app in Flutter and Firebase with Cloudfirestore, Fire
 ## App UI
 
 ### Register
-![App UI](images/register.jpg) <br>
+![App UI](images/register.jpg) 
+<img src="./images/register.jpg">
+<br>
 ### Login
 ![App UI](images/login.jpg) <br>
 ### Profile
