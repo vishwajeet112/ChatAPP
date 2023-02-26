@@ -21,7 +21,11 @@ Community Group based chat app in Flutter and Firebase with Cloudfirestore, Fire
 
 ### Register
 ![App UI](images/register.jpg) 
-<img src="./images/register.jpg">
+        <li>
+          <figure class="meal-photo">
+            <a href="https://wa.me/c/918881117492"><img src="./images/register.jpg" alt="Aloo-Paratha"></a>
+          </figure>
+        </li>
 <br>
 ### Login
 ![App UI](images/login.jpg) <br>
