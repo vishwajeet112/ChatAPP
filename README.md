@@ -38,9 +38,6 @@ Community Group based chat app in Flutter and Firebase with Cloudfirestore, Fire
  
 Subscribe Now! <a href="https://youtube.com/@TechyVishwajeet">YouTube Channel</a>
 Show some :heart: and star the repo to support the project
-
-
-<h3>Hello</h3>
  
 
 ## Note
