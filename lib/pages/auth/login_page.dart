@@ -42,15 +42,16 @@ class _LoginPageState extends State<LoginPage> {
                       crossAxisAlignment: CrossAxisAlignment.center,
                       children: <Widget>[
                         const Text(
-                          "Groupie",
+                          "",
                           style: TextStyle(
                               fontSize: 40, fontWeight: FontWeight.bold),
                         ),
                         const SizedBox(height: 10),
-                        const Text("Login now to see what they are talking!",
+                        const Text("",
                             style: TextStyle(
                                 fontSize: 15, fontWeight: FontWeight.w400)),
                         Image.asset("assets/login.png"),
+                        const SizedBox(height: 30),
                         TextFormField(
                           decoration: textInputDecoration.copyWith(
                               labelText: "Email",
@@ -154,13 +155,14 @@ class _LoginPageState extends State<LoginPage> {
           .loginWithUserNameandPassword(email, password)
           .then((value) async {
         if (value == true) {
-          QuerySnapshot snapshot = await DatabaseService(uid: FirebaseAuth.instance.currentUser!.uid)
-              .gettingUserData(email);
+          QuerySnapshot snapshot =
+              await DatabaseService(uid: FirebaseAuth.instance.currentUser!.uid)
+                  .gettingUserData(email);
 
           //saving the values to our sharedPrefernces
           await HelperFunctions.saveUserLoggedInStatus(true);
           await HelperFunctions.saveUserEmailSF(email);
-          await HelperFunctions.saveUserNameSF(snapshot.docs[0]['fullName']); 
+          await HelperFunctions.saveUserNameSF(snapshot.docs[0]['fullName']);
           nextScreenReplace(context, const HomePage());
         } else {
           showSnackBar(context, Colors.red, value);
