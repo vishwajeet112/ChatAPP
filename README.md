@@ -20,7 +20,7 @@ Community Group based chat app in Flutter and Firebase with Cloudfirestore, Fire
 ## App UI
 
 ### Register
-![App UI](https://khabarlaya.com/wp-content/uploads/2023/02/register.jpg)<br>
+![App UI](https://khabarlaya.com/wp-content/uploads/2023/02/register.JPG)<br>
 ### Login
 ![App UI](images/login.png) <br>
 ### Profile
