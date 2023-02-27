@@ -28,7 +28,7 @@ Community Group based chat app in Flutter and Firebase with Cloudfirestore, Fire
 ### Drawer Menu
 <img src="http://techyvishwajeet.com/wp-content/uploads/2023/02/sidemenu.jpg" height="450" width="300"><br>
 ### Search
-<img src="http://techyvishwajeet.com/wp-content/uploads/2023/02/search.jpg" height="450" width="300"><br>
+<img src="http://techyvishwajeet.com/wp-content/uploads/2023/02/search.jpg" height="200" width="300"><br>
  
 Subscribe Now! <a href="https://youtube.com/@TechyVishwajeet">YouTube Channel</a>
 Show some :heart: and :star: the repo to support the project
