@@ -6,7 +6,7 @@ Community Group based chat app in Flutter and Firebase with Cloudfirestore, Fire
 2. Sign Up / Register
 3. Create a Group
 4. Join in a Group with your friends
-5. Chat with joinies in a group
+5. Chat with joiners in a group
 6. Delete a Group
 7. Check own Profile Details
 8. Know Group Details 
