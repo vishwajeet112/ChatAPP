@@ -20,15 +20,15 @@ Community Group based chat app in Flutter and Firebase with Cloudfirestore, Fire
 ## App UI
 
 ### Register
-![App UI]<img src="http://techyvishwajeet.com/wp-content/uploads/2023/02/register.jpg" height="300" width="100"><br>
+<img src="http://techyvishwajeet.com/wp-content/uploads/2023/02/register.jpg" height="450" width="300"><br>
 ### Login
-![App UI](http://techyvishwajeet.com/wp-content/uploads/2023/02/login.jpg) <br>
+<img src="http://techyvishwajeet.com/wp-content/uploads/2023/02/login.jpg" height="450" width="300"><br>
 ### Profile
-![App UI](http://techyvishwajeet.com/wp-content/uploads/2023/02/profile.jpg) <br>
+<img src="http://techyvishwajeet.com/wp-content/uploads/2023/02/profile.jpg" height="450" width="300"><br>
 ### Drawer Menu
-![App UI](http://techyvishwajeet.com/wp-content/uploads/2023/02/sidemenu.jpg) <br>
+<img src="http://techyvishwajeet.com/wp-content/uploads/2023/02/sidemenu.jpg" height="450" width="300"><br>
 ### Search
-![App UI](http://techyvishwajeet.com/wp-content/uploads/2023/02/search.jpg) <br>
+<img src="http://techyvishwajeet.com/wp-content/uploads/2023/02/search.jpg" height="450" width="300"><br>
  
 Subscribe Now! <a href="https://youtube.com/@TechyVishwajeet">YouTube Channel</a>
 Show some :heart: and :star: the repo to support the project
