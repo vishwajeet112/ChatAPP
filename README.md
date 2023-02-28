@@ -6,7 +6,7 @@ Community Group based chat app in Flutter and Firebase with Cloudfirestore, Fire
 2. Sign Up / Register
 3. Create a Group
 4. Join in a Group with your friends
-5. Chat with joinies in a group
+5. Chat with joiners in a group
 6. Delete a Group
 7. Check own Profile Details
 8. Know Group Details 
@@ -20,15 +20,19 @@ Community Group based chat app in Flutter and Firebase with Cloudfirestore, Fire
 ## App UI
 
 ### Register
-![App UI](images/register.png)<br>
+<img src="http://techyvishwajeet.com/wp-content/uploads/2023/02/register.jpg" height="450" width="300"><br>
 ### Login
-![App UI](images/login.png) <br>
+<img src="http://techyvishwajeet.com/wp-content/uploads/2023/02/login.jpg" height="450" width="300"><br>
 ### Profile
-![App UI](images/profile.png) <br>
+<img src="http://techyvishwajeet.com/wp-content/uploads/2023/02/profile.jpg" height="450" width="300"><br>
 ### Drawer Menu
-![App UI](images/sidemenu.png) <br>
+<img src="http://techyvishwajeet.com/wp-content/uploads/2023/02/sidemenu.jpg" height="450" width="300"><br>
 ### Search
-![App UI](images/search.png) <br>
+<img src="http://techyvishwajeet.com/wp-content/uploads/2023/02/search.jpg" height="200" width="300"><br>
+### Create Group
+<img src="http://techyvishwajeet.com/wp-content/uploads/2023/02/creategroup.jpg" height="450" width="300"><br>
+### Chat
+<img src="http://techyvishwajeet.com/wp-content/uploads/2023/02/chat.jpg" height="450" width="300"><br>
  
 Subscribe Now! <a href="https://youtube.com/@TechyVishwajeet">YouTube Channel</a>
 Show some :heart: and :star: the repo to support the project
